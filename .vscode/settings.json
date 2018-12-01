@@ -1,0 +1,16 @@
+{
+    "cmake.configureOnOpen": true,
+    "C_Cpp.configurationWarnings": "Disabled",
+    "files.associations": {
+        "unordered_set": "cpp",
+        "functional": "cpp",
+        "__hash_table": "cpp",
+        "memory": "cpp",
+        "__functional_base": "cpp",
+        "__config": "cpp",
+        "queue": "cpp",
+        "utility": "cpp",
+        "unordered_map": "cpp",
+        "algorithm": "cpp"
+    }
+}
